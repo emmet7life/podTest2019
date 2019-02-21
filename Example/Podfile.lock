@@ -1,0 +1,16 @@
+PODS:
+  - podTestLib2019 (0.1.0)
+
+DEPENDENCIES:
+  - podTestLib2019 (from `../`)
+
+EXTERNAL SOURCES:
+  podTestLib2019:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  podTestLib2019: 33f4a4e98553c049a1ddb83c741502737a24729f
+
+PODFILE CHECKSUM: 1695aaec4d42537da461de5a381313dfb98e3427
+
+COCOAPODS: 1.5.3
